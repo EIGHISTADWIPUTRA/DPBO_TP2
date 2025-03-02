@@ -1,0 +1,38 @@
+# tampilkan data
+2
+
+# Tambah produk biasa
+1
+1
+6
+Pedigree
+Makanan_Anjing
+12500
+
+# Tambah produk aksesoris
+1
+2
+7
+Cat_Bow
+Aksesoris
+30000
+Pita
+Kain
+Merah
+
+# Tambah produk baju
+1
+3
+8
+Jaket_Kucing
+Baju
+50000
+Jaket
+Wol
+Putih
+Kucing
+M
+Adidas
+
+# Tampilkan data
+2
